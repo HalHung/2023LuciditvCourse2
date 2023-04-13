@@ -6,13 +6,13 @@
 
       <!-- 圖片：alt填寫圖片資訊、src填寫圖片路徑 -->
       <!-- tip: <img /> ， assets是專案中的一個資料夾 -->
-      <img
+      <!-- <img
         alt=""
         src="@/assets/"
         width="125"
         height="125"
         style="margin-left: 50px"
-      />
+      /> -->
 
       <!-- list顯示：時間：某年某月某日、地點：世界上某一處、講師：秘密～當天的驚喜 -->
       <!-- tip: ul, ol, li -->

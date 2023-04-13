@@ -19,19 +19,19 @@ let result = ref(""); /* 呼叫multiFormula */
 
 /* 課堂練習 */
 function multiFormula(inputNum: number) {
-  /* 設定需要的變數 */
-  let i: ;
-  let factorial = 1;
-  let formula: ;
-  /* 回圈乘出最終答案 */
-  for (i = inputNum; i >= 1; i--) {
-    factorial = factorial*;
-    formula = ;
-  }
-  /* 組成算式 */
-  formula = ;
+  // /* 設定需要的變數 */
+  // let i: ;
+  // let factorial = 1;
+  // let formula: ;
+  // /* 回圈乘出最終答案 */
+  // for (i = inputNum; i >= 1; i--) {
+  //   factorial = factorial*;
+  //   formula = ;
+  // }
+  // /* 組成算式 */
+  // formula = ;
 
-  /* 回傳給result */
-  result.value = formula;
+  // /* 回傳給result */
+  // result.value = formula;
 }
 </script>

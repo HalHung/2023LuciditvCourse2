@@ -10,16 +10,16 @@
 /* 印出九九乘法表 */
 function multiFormula() {
   /* 設定需要的變數 */
-  let i: ;
-  let j: ;
-  let formula: ;
-  /* 回圈乘出最終答案 */
-  for () {
-    for () {
-      formula = ;
-      console.log(formula);
-    }
-    console.log("");
-  }
+  // let i: ;
+  // let j: ;
+  // let formula: ;
+  // /* 回圈乘出最終答案 */
+  // for () {
+  //   for () {
+  //     formula = ;
+  //     console.log(formula);
+  //   }
+  //   console.log("");
+  // }
 }
 </script>
